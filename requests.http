@@ -1,0 +1,10 @@
+POST http://localhost:3000/movies.json 
+Content-Type: application/json
+
+{
+  "title": "shrek",
+  "plot": "green guy find princesss with donkey",
+  "year": 2005,
+  "director": "dreamworks guy"
+  
+} 
