@@ -1,3 +1,5 @@
+@jwt = eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjo0LCJleHAiOjE2NTAxMjI4MzV9.8sfjDahMwwzrSkeRxiim8C-FbVs-zeKnny2p8IquTz4
+
 POST http://localhost:3000/movies.json 
 Content-Type: application/json
 
@@ -34,6 +36,6 @@ POST http://localhost:3000/sessions.json
 Content-Type: application/json
 
 {
-  "email": "AL@example.com",
-  "password": "testing"
+  "email": "brandon@example.com",
+  "password": "password"
 }
