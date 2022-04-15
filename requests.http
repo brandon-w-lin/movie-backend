@@ -36,6 +36,6 @@ POST http://localhost:3000/sessions.json
 Content-Type: application/json
 
 {
-  "email": "brandon@example.com",
+  "email": "archer@example.com",
   "password": "password"
 }
